@@ -1,3 +1,5 @@
 # Trex-Game
 
-## This is complex game created using javascript language using p5.js
+## Language: Javascript
+## Editor: P5 Web Editor
+#### Code snippets are based on fundamentals of javascript
